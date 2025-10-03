@@ -22,7 +22,17 @@ Route::get('/berita', function () {
         [
             "judul" => "Berita 1",
             "penulis" => "Saya",
-            "konten" => "Info"
+            "konten" => "Jakarta, 3 Oktober 2025 — Perkembangan teknologi kecerdasan buatan (AI) kian pesat. Salah satu startup teknologi asal Indonesia, Nusantara Tech, baru saja meluncurkan prototipe asisten virtual berbahasa Indonesia yang dirancang khusus untuk membantu kebutuhan masyarakat lokal.",
+        ],
+        [
+            "judul" => "Berita 2",
+            "penulis" => "Wapek love sasya",
+            "konten" => "Berbeda dengan asisten digital global yang umumnya berfokus pada bahasa Inggris, produk ini didesain agar lebih mudah memahami konteks percakapan sehari-hari dalam bahasa Indonesia. Menurut CEO Nusantara Tech, asisten virtual ini mampu menjawab pertanyaan, memberikan rekomendasi, hingga membantu pekerjaan administratif seperti menjadwalkan rapat.",
+        ],
+        [
+            "judul" => "Berita 3",
+            "penulis" => "Wapek suka tobrut",
+            "konten" => "Pengamat teknologi menilai langkah ini sebagai peluang besar bagi Indonesia untuk tidak hanya menjadi pengguna, tetapi juga produsen teknologi berbasis AI.",
         ]
         ];
 
